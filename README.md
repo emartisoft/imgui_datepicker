@@ -14,3 +14,5 @@ date picker widget for imgui
  ImGui::Text(datePicker.GetDate().c_str());
 ```
 
+![preview](https://github.com/emartisoft/imgui_datepicker/blob/main/imgui_datepicker.gif?raw=true)
+
